@@ -194,7 +194,8 @@ console.log(winConditions)
 return(
     <React.Fragment>
     <div>
-    <button onClick={generate}>Genrate</button>
+
+    <button onClick={generate}>Genrate Card</button>
    
         <table>
             <tr>

@@ -44,6 +44,7 @@ let listItems = pickedBalls.map((number) =>
   
   return (
     <React.Fragment>
+      <h1>Click generate to get cards before calling numbers</h1>
     <div className="App">
     Number called
      <ul>{listItems}</ul>
